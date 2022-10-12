@@ -11,6 +11,9 @@ module.exports = {
         xl: 24,
         "2xl": 32,
       },
+      black: "#000",
+      white: "#FFF",
+
       "gray-100": "#E1E1E6",
       "gray-200": "#C4C4CC",
       "gray-400": "#7C7C8A",
